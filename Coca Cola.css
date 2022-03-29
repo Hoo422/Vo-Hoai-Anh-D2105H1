@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+</style>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Lato&display=swap');
+</style>
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;  
+}
+.red{
+  height: 22px;
+  background-color: red;
+  text-align: right;
+  vertical-align: middle;
+}
+.red div a{
+  text-decoration: none;
+  vertical-align: middle;
+  padding: 10px 0;
+  color: aliceblue;
+}
+
+/*-------------------red-------------------------*/
+
+.boxx{
+  background-color: red;
+  height: 0.1px;
+}
+
+.container{
+  width: 1100px;
+  margin: 0 auto;
+}
+.inline-block{
+  display: inline-block;
+}
+.header{
+  padding: 10px 0;
+}
+.logo{
+  width: 30%;
+  vertical-align: middle;
+}
+.nav{
+  width: 70%;
+  margin-left: -10px;
+  vertical-align: middle;
+  /*font-family: 'Dancing Script', cursive;*/
+  font-family: 'Dancing Script', cursive;
+  font-size: 5px;
+}
+.nav ul{
+  list-style: none;
+  text-align: right;
+}
+.nav li{
+  display: inline-block;
+  margin: 16px;
+}
+.nav li a{
+  font-size: 20px;
+  text-decoration: none;
+  color: red;
+}
+.red{
+  color: red;
+}
+
+/*__________main___________*/
+
+.secontion-1{
+  padding-top: 80px;
+}
+.content-1{
+  width: 49%;
+  font-size: 30px;
+  color: red;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.content-1 a{
+  text-decoration: none;
+  color: red;
+  vertical-align: middle;
+}
+
+.banner-img{
+  width: 50%;
+  vertical-align: middle;
+  text-align: right;
+  overflow: hidden;
+  border-radius: 40px;
+}
+
+.banner-img img{
+  width: 100%;
+}
+
+.banner-img-2{
+  width: 50%;
+  vertical-align: middle;
+  text-align: right;
+  overflow: hidden;
+  border-radius: 40px;
+}
+
+.banner-img-2 img{
+  width: 100%;
+}
+
+.text{
+  text-align: center;
+  padding-top: 80px;
+}
+
+.secontion-2{
+  padding: 80px 0;
+}
+
+.box{
+  width: 24%;
+  vertical-align: middle;
+  background-color: white;
+  overflow: hidden;
+  border-radius: 20px;
+  display: inline-block;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lato', sans-serif;
+}
+
+.sp{
+  height: 300px;
+  overflow: hidden;
+}
+
+.sp img{
+  width: 100%;
+}
+
+/*-----------------------main---------------------*/
+.footer{
+  padding: 120px;
+}
+
+.brand-logo{
+width: 20%;
+display: inline-block;
+}
+
+.brand-logo img{
+  width: 100%;
+  display: inline-block;
+  vertical-align: top;
+}
+.menu{
+  width: 79%;
+  display: inline-block;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lato', sans-serif;
+}
+.list-menu{
+  width: 24%;
+  display: inline-block;
+  vertical-align: top;
+}
+.list-menu ul{
+  list-style: none;
+}
+.list-menu li{
+  margin: 4px 0;
+}
+.list-menu a{
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+}
+
+/*---------------------------------------------*/
+.btn{
+  padding: 22px 42px;
+  background-color: white;
+  text-decoration: none;
+  border-radius: 20px;
+}
+.cta{
+  background-color: red;
+  padding: 80px;
+}
+.cta-1{
+  width: 65%;
+  display: inline-block;
+  vertical-align: middle;
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lato', sans-serif;
+}
+.cta-2{
+  width: 34%;
+  display: inline-block;
+  vertical-align: middle; 
+  text-align: center; 
+  font-family: 'Dancing Script', cursive;
+  font-family: 'Lato', sans-serif;
+}
